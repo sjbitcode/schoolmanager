@@ -1,0 +1,30 @@
+[
+{
+  "model": "enroll.school",
+  "pk": 1,
+  "fields": {
+    "name": "Rolrore, Institute Of Wizardry"
+  }
+},
+{
+  "model": "enroll.school",
+  "pk": 2,
+  "fields": {
+    "name": "Avausine, Institute Of The Arcane"
+  }
+},
+{
+  "model": "enroll.school",
+  "pk": 3,
+  "fields": {
+    "name": "Baurreth, School Of Magics"
+  }
+},
+{
+  "model": "enroll.school",
+  "pk": 4,
+  "fields": {
+    "name": "Tenarts, Academy Of Witchcraft"
+  }
+}
+]

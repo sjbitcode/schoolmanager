@@ -1,0 +1,227 @@
+[
+{
+  "model": "enroll.student",
+  "pk": 1,
+  "fields": {
+    "first_name": "Heidi",
+    "last_name": "Brunlow",
+    "classroom": 1
+  }
+},
+{
+  "model": "enroll.student",
+  "pk": 2,
+  "fields": {
+    "first_name": "Ben",
+    "last_name": "Santini",
+    "classroom": 2
+  }
+},
+{
+  "model": "enroll.student",
+  "pk": 3,
+  "fields": {
+    "first_name": "Edgar",
+    "last_name": "Baker",
+    "classroom": 3
+  }
+},
+{
+  "model": "enroll.student",
+  "pk": 4,
+  "fields": {
+    "first_name": "Laura",
+    "last_name": "Knutsen",
+    "classroom": 4
+  }
+},
+{
+  "model": "enroll.student",
+  "pk": 5,
+  "fields": {
+    "first_name": "Mimi",
+    "last_name": "Gamp",
+    "classroom": 5
+  }
+},
+{
+  "model": "enroll.student",
+  "pk": 6,
+  "fields": {
+    "first_name": "Alecto",
+    "last_name": "Halliwell",
+    "classroom": 6
+  }
+},
+{
+  "model": "enroll.student",
+  "pk": 7,
+  "fields": {
+    "first_name": "Oberon",
+    "last_name": "Lestrange",
+    "classroom": 7
+  }
+},
+{
+  "model": "enroll.student",
+  "pk": 8,
+  "fields": {
+    "first_name": "Falco",
+    "last_name": "Quinton",
+    "classroom": 8
+  }
+},
+{
+  "model": "enroll.student",
+  "pk": 9,
+  "fields": {
+    "first_name": "Roy",
+    "last_name": "Shepherd",
+    "classroom": 9
+  }
+},
+{
+  "model": "enroll.student",
+  "pk": 10,
+  "fields": {
+    "first_name": "Lorcan",
+    "last_name": "Corney",
+    "classroom": 10
+  }
+},
+{
+  "model": "enroll.student",
+  "pk": 11,
+  "fields": {
+    "first_name": "Evan",
+    "last_name": "Ostensen",
+    "classroom": 11
+  }
+},
+{
+  "model": "enroll.student",
+  "pk": 12,
+  "fields": {
+    "first_name": "Sam",
+    "last_name": "Duvall",
+    "classroom": 12
+  }
+},
+{
+  "model": "enroll.student",
+  "pk": 13,
+  "fields": {
+    "first_name": "Adria",
+    "last_name": "Willis",
+    "classroom": 13
+  }
+},
+{
+  "model": "enroll.student",
+  "pk": 14,
+  "fields": {
+    "first_name": "Gremio",
+    "last_name": "Fitzpatrick",
+    "classroom": 1
+  }
+},
+{
+  "model": "enroll.student",
+  "pk": 15,
+  "fields": {
+    "first_name": "Helena",
+    "last_name": "Elphick",
+    "classroom": 2
+  }
+},
+{
+  "model": "enroll.student",
+  "pk": 16,
+  "fields": {
+    "first_name": "Alfred",
+    "last_name": "Holmes",
+    "classroom": 3
+  }
+},
+{
+  "model": "enroll.student",
+  "pk": 17,
+  "fields": {
+    "first_name": "Radulf",
+    "last_name": "Reekes",
+    "classroom": 3
+  }
+},
+{
+  "model": "enroll.student",
+  "pk": 18,
+  "fields": {
+    "first_name": "Perpetua",
+    "last_name": "Warburton",
+    "classroom": 4
+  }
+},
+{
+  "model": "enroll.student",
+  "pk": 19,
+  "fields": {
+    "first_name": "Desmond",
+    "last_name": "Marat",
+    "classroom": 5
+  }
+},
+{
+  "model": "enroll.student",
+  "pk": 20,
+  "fields": {
+    "first_name": "Druella",
+    "last_name": "Cadwallader",
+    "classroom": 7
+  }
+},
+{
+  "model": "enroll.student",
+  "pk": 21,
+  "fields": {
+    "first_name": "Caliban",
+    "last_name": "Knutsen",
+    "classroom": 9
+  }
+},
+{
+  "model": "enroll.student",
+  "pk": 22,
+  "fields": {
+    "first_name": "Courtney",
+    "last_name": "Marple",
+    "classroom": 10
+  }
+},
+{
+  "model": "enroll.student",
+  "pk": 23,
+  "fields": {
+    "first_name": "Rolf",
+    "last_name": "Patterson",
+    "classroom": 14
+  }
+},
+{
+  "model": "enroll.student",
+  "pk": 24,
+  "fields": {
+    "first_name": "Eduardus",
+    "last_name": "Hirschkorn",
+    "classroom": 11
+  }
+},
+{
+  "model": "enroll.student",
+  "pk": 25,
+  "fields": {
+    "first_name": "Vesma",
+    "last_name": "Cooper",
+    "classroom": 13
+  }
+}
+]

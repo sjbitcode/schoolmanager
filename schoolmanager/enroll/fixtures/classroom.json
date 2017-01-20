@@ -1,0 +1,128 @@
+[
+{
+  "model": "enroll.classroom",
+  "pk": 1,
+  "fields": {
+    "name": "Astronomy",
+    "description": "Astronomy is a branch of magic that studies stars and the movement of planets. It is a subject where the use of practical magic during lessons isn't necessary.",
+    "school": 1
+  }
+},
+{
+  "model": "enroll.classroom",
+  "pk": 2,
+  "fields": {
+    "name": "Charms",
+    "description": "The spells learned in Charms class are taken from textbooks. Students are taught specific wand movements and proper pronunciation.",
+    "school": 2
+  }
+},
+{
+  "model": "enroll.classroom",
+  "pk": 3,
+  "fields": {
+    "name": "Dark Arts",
+    "description": "Unforgivable Curses and numerous other forms of Dark magic are taught in this class.",
+    "school": 3
+  }
+},
+{
+  "model": "enroll.classroom",
+  "pk": 4,
+  "fields": {
+    "name": "Defence Against the Dark Arts",
+    "description": "In this class students learn how to magically defend themselves against Dark Creatures, the Dark Arts, and other dark charms.",
+    "school": 4
+  }
+},
+{
+  "model": "enroll.classroom",
+  "pk": 5,
+  "fields": {
+    "name": "Flying",
+    "description": "The subject teaches students how to fly broomsticks.",
+    "school": 1
+  }
+},
+{
+  "model": "enroll.classroom",
+  "pk": 6,
+  "fields": {
+    "name": "Herbology",
+    "description": "Herbology is the study of magical and mundane plants and fungi, making it the wizarding equivalent to botany.",
+    "school": 2
+  }
+},
+{
+  "model": "enroll.classroom",
+  "pk": 7,
+  "fields": {
+    "name": "History of Magic",
+    "description": "This class is a study of magical history. This is one of the subjects where the use of magic practically isn't necessary.",
+    "school": 3
+  }
+},
+{
+  "model": "enroll.classroom",
+  "pk": 8,
+  "fields": {
+    "name": "Muggle Studies",
+    "description": "Muggle Studies is an elective class and part of the non-magical studies curriculum. It is exactly what the name implies — the study of the daily lives of Muggles and how they cope with electricity, technology and science, and not magic.",
+    "school": 4
+  }
+},
+{
+  "model": "enroll.classroom",
+  "pk": 9,
+  "fields": {
+    "name": "Potions",
+    "description": "In this class, students learn the correct way to brew potions.",
+    "school": 1
+  }
+},
+{
+  "model": "enroll.classroom",
+  "pk": 10,
+  "fields": {
+    "name": "Transfiguration",
+    "description": "This class teaches the art of changing the form and appearance of an object.",
+    "school": 3
+  }
+},
+{
+  "model": "enroll.classroom",
+  "pk": 11,
+  "fields": {
+    "name": "Alchemy",
+    "description": "This class concerns the ancient science of Alchemy, the study of the four basic elements, as well as the study of the transmutation of substances.",
+    "school": 4
+  }
+},
+{
+  "model": "enroll.classroom",
+  "pk": 12,
+  "fields": {
+    "name": "Apparition",
+    "description": "Apparition is an optional twelve-week course offered for, as its name suggests, learning how to Apparate.",
+    "school": 1
+  }
+},
+{
+  "model": "enroll.classroom",
+  "pk": 13,
+  "fields": {
+    "name": "Divination",
+    "description": "This class teaches methods of divining the future, or gathering insights into future events, through various rituals and tools.",
+    "school": 2
+  }
+},
+{
+  "model": "enroll.classroom",
+  "pk": 14,
+  "fields": {
+    "name": "Study of Ancient Runes",
+    "description": "Ancient Runes is a mostly theoretical subject that studies the ancient runic scripts of magic.",
+    "school": 3
+  }
+}
+]
