@@ -2,6 +2,14 @@ from django.db import models
 
 
 class Student(models.Model):
+    '''
+    A Student object has a first_name, last_name,
+    and can belong to only one classroom.
+
+    * If a classroom is deleted, the student's classroom
+    is set to NULL, allowing the student to potentially
+    enroll into a different classroom.
+    '''
     first_name = models.CharField(
         max_length=50,
         verbose_name='First Name',
@@ -29,6 +37,12 @@ class Student(models.Model):
 
 
 class Classroom(models.Model):
+    '''
+    A Classroom object has a name, an optional description,
+    and can only relate to a single school.
+
+    * If the school is deleted, the classroom is also deleted.
+    '''
     name = models.CharField(
         max_length=50,
         verbose_name='Name',
@@ -55,6 +69,9 @@ class Classroom(models.Model):
 
 
 class School(models.Model):
+    '''
+    A School object has only a name.
+    '''
     name = models.CharField(
         max_length=150,
         verbose_name='School name',
